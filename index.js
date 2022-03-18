@@ -1,7 +1,6 @@
 'use strict';
 
 
-function btn_() { }
 
 const limparFormulario = (endereco) => {
     document.getElementById('endereco').value = '';
